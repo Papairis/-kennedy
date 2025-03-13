@@ -1,0 +1,14 @@
+th{
+    border: 2px solid rgb(238, 255, 0);
+    padding: 3px;
+}
+
+td{
+    border: 3px solid rgb(34, 119, 112);
+    padding: 4px;
+}
+
+table{
+    border: 3px solid rgb(10, 75, 91);
+    padding: 2px;
+}
